@@ -1,7 +1,9 @@
-stars=25;diamonds=50
-coins=25000;diamonds=45
-coins=100000;diamonds=70
-Lilly=1;diamonds=25
-Jewel=1;stars=10
-Vortex=1;diamonds=25
-Relic=1;diamonds=10
+stars=25000000000;diamonds=0
+coins=9999999999;diamonds=0
+Lilly=100;diamonds=0
+Jewel=100;stars=0
+Vortex=1000;diamonds=0
+Relic=1000000;diamonds=0
+Virus=999;coins=0
+diamonds=99999999999999999999;coins=0
+fabric=999;diamonds=0
