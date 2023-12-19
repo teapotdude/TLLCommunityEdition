@@ -25,6 +25,8 @@ Monsters/Monster_spunge_rare diamonds=0
 Monsters/Monster_dulsylvan_rare diamonds=0
 Monsters/Monster_banno_rare diamonds=0
 Monsters/Monster_phangler_rare diamonds=0
+Monsters/Monster_percFrog diamonds=0
+Monsters/Special/Monster_melochness diamonds=0
 -
 monster_secret:
 Monsters/Monster_percFrog
